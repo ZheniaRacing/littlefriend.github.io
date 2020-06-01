@@ -20,7 +20,7 @@ h1, h2, h3, h4, h5, h6{
 	right: 0;
 	z-index: 1000;
 	height: 100vh;
-	background: url(../images/intro.jpg) center
+	background: url(../images/intro_gaus.jpg) center
 	no-repeat;
 	-webkit-background-size: cover;
 	background-size: cover;
